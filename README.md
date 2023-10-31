@@ -18,3 +18,13 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
     <img width='40' height='40' align="center" title='MySQL' alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img width='40' height='40' align="center" title='Bootstrap' alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
+
+<p></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&custom_title=Estatísticas&layout=compact&bg_color=00000000&text_color=ffffff) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=html-css-js&bg_color=00000000&text_color=ffffff)](https://github.com/heliocarlitos/html-css-js)
+
+<p></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=transparent&show_icons=true&text_color=ffffff) 
+
+<p></p>
