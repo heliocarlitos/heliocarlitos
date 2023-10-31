@@ -21,7 +21,8 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 
 <p></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&custom_title=Estatísticas&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=html-css-js&bg_color=00000000&text_color=ffffff&hide_border=true&card_width=100)](https://github.com/heliocarlitos/html-css-js)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&custom_title=Estatísticas&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
 
-<p></p>
+## Principais Repositórios
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=html-css-js&bg_color=00000000&text_color=ffffff&hide_border=true&card_width=100)](https://github.com/heliocarlitos/html-css-js)
