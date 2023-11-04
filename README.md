@@ -25,6 +25,8 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 
 </div>
 
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heliocarlitos&bg_color=0d1117&color=ffffff&line=0092ed&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
 <hr>
 
 ### Principais Repositórios
