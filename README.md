@@ -31,7 +31,7 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 
 ### Principais Repositórios
 
-<div align='center'>
+<div align=''>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=html-css-js&bg_color=00000000&text_color=ffffff&hide_border=true&card_width=100)](https://github.com/heliocarlitos/html-css-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=componetes-de-um-Site&bg_color=00000000&text_color=ffffff&hide_border=true&card_width=100)](https://github.com/heliocarlitos/componetes-de-um-Site)
