@@ -6,16 +6,15 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 
 <hr>
 
-### Tecnologias que uso para Programar / Desenvolver
+## Tecnologias que uso para Programar / Desenvolver
 
 <div align='center'><br>
-    <img style='margin-right:22px;' width='40' height='40' align="center" title='HTML5' alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img style='margin-right:22px;' width='40' height='40' align="center" title='CSS3' alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img style='margin-right:22px;' width='40' height='40' align="center" title='JavaScript' alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img style='margin-right:22px;' width='40' height='40' align="center" title='Python' alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img width='40' height='40' align="center" title='MySQL' alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img width='40' height='40' align="center" title='MySQL' alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img width='40' height='40' align="center" title='Bootstrap' alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<!--   <img align="center" alt="laravel" src="https://img.shields.io/badge/laravel-DC143C?style=for-the-badge&logo=laravel&logoColor=white"> -->
+<!--   <img align="center" alt="vuejs" src="https://img.shields.io/badge/vue.js-00FF7F?style=for-the-badge&logo=vue.js&logoColor=gray"> -->
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-BF40BF?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
 <div align='center'><br>
@@ -25,7 +24,12 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 
 </div>
 
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heliocarlitos&bg_color=0d1117&color=ffffff&line=0092ed&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<hr>
+
+### Actualmente Estou Estudando
+- JavaScript
+- Python
+- React
 
 <hr>
 
