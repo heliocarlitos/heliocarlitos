@@ -8,38 +8,36 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 
 ## Tecnologias que uso para Programar / Desenvolver
 
+<div align='center'><br>
+  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<div align='center'><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<!--   <img align="center" alt="laravel" src="https://img.shields.io/badge/laravel-DC143C?style=for-the-badge&logo=laravel&logoColor=white"> -->
-<!--   <img align="center" alt="vuejs" src="https://img.shields.io/badge/vue.js-00FF7F?style=for-the-badge&logo=vue.js&logoColor=gray"> -->
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-BF40BF?style=for-the-badge&logo=php&logoColor=white">
-</div>
-
-<div align='center'><br>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&custom_title=Estatísticas&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
 
 </div>
 
-<hr>
+<div align='center'>
 
 ### Actualmente Estou Estudando
-- JavaScript
-- Python
-- React
+  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
 
 <hr>
 
-### Principais Repositórios
+## Principais Repositórios
 
 <div align=''>
 
@@ -52,7 +50,7 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 
 <hr>
 
-### Contactos
+## Contactos
 
 - Meu WhatsApp: <a href="https://wa.me/258862867990?text=Ol%C3%A1%20*H%C3%A9lio%20Carlitos*%2C%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"> +258 86 286 7990 </a>
 - Meu Endereço de Email: [heliocarlitosantonio@gmail.com](mailto:heliocarlitosantonio@gmail.com)
