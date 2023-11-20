@@ -1,7 +1,7 @@
 # Olá! Eu sou o Hélio Carlitos 🖐️
 
 <p align='justify'>
-Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês no ano de 2023 pela Universidade Rovuma, mas sou mesmo apaixonado pelas tecnologias, por isso estou estudando Programação e Desenvolvimento Web do meu jeito desde Setembro de 2022, estudo através de alguns cursos disponíveis no YouTube e livros em formatos de PDF e quando tenho uma dúvida uso alguns chat bot com o ChatGPT e o Bing, e tudo que eu aprendo deixo nesse perfil, também tenho um canal no YouTube que pretendo criar alguns pequenos cursos de Programação e Desenvolvimento Web, gosto muito de ensinal e aprender qualquer coisa com qualquer pessoa. Se você quer aprender algo de mim ou me ensinar algo não exite em entrar em contacto comigo.
+Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês no ano de 2023 pela Universidade Rovuma, mas sou mesmo apaixonado pelas tecnologias, por isso estou estudando Programação e Desenvolvimento Web do meu jeito desde Setembro de 2022, estudo através de alguns cursos disponíveis no YouTube e livros em formatos de PDF e quando tenho uma dúvida uso alguns chat bot com o ChatGPT e o Bing, e em algumas comunidades Dev no Discord, e tudo que eu aprendo deixo neste perfil, gosto muito de ensinar e aprender qualquer coisa com qualquer pessoa. Se você quer aprender algo de mim ou me ensinar algo ou até mesmo desenvolvermos um projecto juntos, não exite em entrar em contacto comigo.
 </p>
 
 <hr>
