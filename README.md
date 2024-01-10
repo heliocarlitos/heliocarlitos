@@ -47,6 +47,9 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=componetes-de-um-Site&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/componetes-de-um-Site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=formatacao-e-sintaxe-basica-do-github&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Projectos-em-Python&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Projectos-em-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Dicas-de-Programa-o-Web&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Dicas-de-Programa-o-Web)
+
 </div>
 
 <hr>
