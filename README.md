@@ -6,7 +6,7 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 
 <hr>
 
-## Tecnologias que uso para Programar / Desenvolver
+## Tecnologias Que Uso Para Programar / Desenvolver
 
 <div align='center'><br>
   
@@ -24,14 +24,19 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 <div align='center'>
 
 ### Actualmente Estou Estudando
-  
+    
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
+
+<!---!
+
+[MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=black)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
+
+-->
 
 </div>
 
@@ -66,4 +71,4 @@ Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês n
 </div>
 
 #
-> **Obrigado por visitar o meu perfil**
+> **Muito Obrigado Por Visitar o Meu Perfil**
