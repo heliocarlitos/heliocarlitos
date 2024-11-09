@@ -40,7 +40,7 @@
   -->
   <span align='left'>
     
-  ### Actualmente Estou Estudando
+  ### Estudando
     
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp; 
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
