@@ -24,19 +24,6 @@
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-  <!--
-  ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  -->
   <span align='left'>
     
   ### Estudando
@@ -66,14 +53,10 @@
 
 <div align='center'>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=html-css-js&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/html-css-js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Projectos-de-Sites&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Projectos-de-Sites)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=componetes-de-um-Site&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/componetes-de-um-Site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=formatacao-e-sintaxe-basica-do-github&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Projectos-em-Python&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Projectos-em-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=projecto-huta&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/html-css-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Dicas-de-Programa-o-Web&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Dicas-de-Programa-o-Web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=formatacao-e-sintaxe-basica-do-github&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Projectos-em-Python&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Projectos-em-Python)
 
 </div>
 
