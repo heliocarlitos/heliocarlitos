@@ -41,8 +41,8 @@
 <div>
 
   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=heliocarlitos&theme=dark&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=90)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=heliocarlitos&theme=dark&hide_border=false)
   <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
 </div>
@@ -51,12 +51,12 @@
 
 ## 📁 Principais Repositórios
 
-<div align='center'>
+<div align='left'>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=projecto-huta&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/html-css-js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Dicas-de-Programa-o-Web&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Dicas-de-Programa-o-Web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=formatacao-e-sintaxe-basica-do-github&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Projectos-em-Python&bg_color=00000000&text_color=fff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Projectos-em-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=projecto-huta&theme=dark&hide_border=false&card_width=100)](https://github.com/heliocarlitos/html-css-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Dicas-de-Programa-o-Web&theme=dark&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Dicas-de-Programa-o-Web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=formatacao-e-sintaxe-basica-do-github&theme=dark&hide_border=false&card_width=100)](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Projectos-em-Python&theme=dark&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Projectos-em-Python)
 
 </div>
 
