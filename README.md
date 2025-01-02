@@ -1,4 +1,4 @@
-# Olá! Eu sou o Hélio Carlitos 🖐️
+# Olá! Eu sou o Hélio Carlitos António🖐️
 
 <p align='justify'>
   Fui Licenciado em Ensino de Português com Habilitações em Ensino de Inglês no ano de 2023 pela Universidade Rovuma, mas sou mesmo apaixonado pelas tecnologias, por isso estou estudando de forma independente Programação e Desenvolvimento Web desde Setembro de 2022.
@@ -6,7 +6,7 @@
 
 <hr>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Tecnologias Que Uso Para Programar / Desenvolver
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Tecnologias que uso para programar / desenvolver
 <div align='center'>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@
 
   <span align='left'>
     
-  ### Estudando
+  ### Agora estou estudando
     
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp; 
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -40,7 +40,7 @@
 
 <div>
 
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
   ![](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=90)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=heliocarlitos&theme=dark&hide_border=false)
   <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
@@ -49,7 +49,7 @@
 
 <hr>
 
-## 📁 Principais Repositórios
+## 📁 Principais repositórios
 
 <div align='left'>
 
@@ -62,7 +62,7 @@
 
 <hr>
 
-## Contactos
+## Vamos trabalhar juntos!
 
 <a href="mailto:heliocarlitosantonio@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff'/></a>
 <a href="https://wa.me/258848242471?text=Ol%C3%A1%20*H%C3%A9lio%20Carlitos*%2C%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff'/></a>
@@ -76,5 +76,5 @@
 
 <hr>
 
-> **Muito Obrigado Por Visitar o Meu Perfil**
+> **Muito obrigado por visitar o meu perfil**
 
