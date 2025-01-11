@@ -43,7 +43,7 @@
   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
   
   ![](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=90) 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heliocarlitos&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=475)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=heliocarlitos&theme=dark)](https://git.io/streak-stats)
   <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
 </div>
