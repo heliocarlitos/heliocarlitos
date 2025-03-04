@@ -1,7 +1,7 @@
-# Olá! Eu sou o Hélio Carlitos António🖐️
+# Hélio Carlitos António
 
 <p align='justify'>
-  Foi Licenciado em Ensino de Português com Habilitações em Ensino de Inglês no ano de 2023 pela Universidade Rovuma, mas é apaixonado pelas tecnologias, por isso está estudando de forma independente Programação e Desenvolvimento Web desde 2022.
+  Foi Licenciado em Ensino de Português com Habilitações em Ensino de Inglês no ano de 2023 pela Universidade Rovuma, mas é apaixonado pela astronomia e tecnologias, por isso está estudando de forma independente Programação e Desenvolvimento Web desde 2022.
 </p>
 
 <hr>
