@@ -1,13 +1,14 @@
 # Hélio Carlitos António
 
-<p align='justify'>
-  Foi Licenciado em Ensino de Português com Habilitações em Ensino de Inglês no ano de 2023 pela Universidade Rovuma, mas é apaixonado pela astronomia e tecnologias, por isso está estudando de forma independente Programação e Desenvolvimento Web desde 2022.
+<p align="justify">
+  Licenciei-me em Ensino de Português com Habilitações em Ensino de Inglês pela Universidade Rovuma em 2023. Sou apaixonado por astronomia e tecnologias, o que me levou a estudar, de forma independente, Programação e Desenvolvimento Web desde 2022.
 </p>
 
-<hr>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Tecnologias que uso para programar / desenvolver
-<div align='center'>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tecnologias que utilizo
+
+<div align="center">
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,35 +25,35 @@
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-  <span align='left'>
+  <span align="left">
     
-  ### Agora estou estudando
+  ### Actualmente a estudar
     
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp; 
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     
   </span>
   
 </div>
 
-<hr>
+---
 
-<div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estatísticas do GitHub
 
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-  
-  ![](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=90) 
-[![](https://streak-stats.demolab.com?user=heliocarlitos&theme=dark)](https://git.io/streak-stats)
-  <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
+<div align="left">
+
+  ![](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  [![](https://streak-stats.demolab.com?user=heliocarlitos&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
-<hr>
+---
 
 ## 📁 Principais repositórios
 
-<div align='left'>
+<div align="left">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=projecto-huta&theme=dark&hide_border=false&card_width=100)](https://github.com/heliocarlitos/html-css-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heliocarlitos&repo=Dicas-de-Programa-o-Web&theme=dark&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Dicas-de-Programa-o-Web)
@@ -61,21 +62,20 @@
 
 </div>
 
-<hr>
+---
 
 ## Vamos trabalhar juntos!
 
-<a href="mailto:heliocarlitosantonio@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff'/></a>
-<a href="https://wa.me/258848242471?text=Ol%C3%A1%20*H%C3%A9lio%20Carlitos*%2C%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff'/></a>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/heliocarlitosantonio) 
+<div align="center">
 
-<div align='center'>
-  
+  <a href="mailto:heliocarlitosantonio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+  <a href="https://wa.me/258848242471?text=Ol%C3%A1%20*H%C3%A9lio%20Carlitos*%2C%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff"/></a>
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/heliocarlitosantonio) 
+
   ![](https://komarev.com/ghpvc/?username=heliocarlitos&color=grey&style=for-the-badge&label=VISUALIZAÇÕES&abbreviated=true)
   
 </div>
 
-<hr>
+---
 
-> **Muito obrigado por visitar o meu perfil**
-
+> **Muito obrigado por visitar o meu perfil!**
