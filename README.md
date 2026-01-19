@@ -11,8 +11,8 @@ Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos
     <img src="https://nirzak-streak-stats.vercel.app/?user=heliocarlitos&theme=default&hide_border=false&locale=pt_BR&card_width=466&card_height=194" />
 </picture>
 
-[![Anurag's GitHub stats-Dark](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Hélio Carlitos GitHub stats-Dark](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Hélio Carlitos GitHub stats-Light](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
