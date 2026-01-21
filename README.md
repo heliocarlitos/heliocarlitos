@@ -2,11 +2,7 @@
 Sou Desenvolvedor _Web_ de Moçambique, cidade de Mocuba, gosto de criar coisas para a _internet_, procurando soluções para resolver problemas reais.<br/><br/>
 Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos/issues).
 
----
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="15"> STATUS DO GITHUB
-
-![Hélio Carlitos GitHub language](https://helio-github-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=466)
+### STATUS DO GITHUB
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-streak-stats-ruby.vercel.app/?user=heliocarlitos&theme=dark&hide_border=false&locale=pt_BR&card_width=466&card_height=194" />
@@ -15,6 +11,10 @@ Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos
 
 [![Hélio Carlitos GitHub stats-Dark](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Hélio Carlitos GitHub stats-Light](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+### LINGUAGENS
+
+![Hélio Carlitos GitHub language](https://helio-github-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=466)
 
 
 <!--
@@ -32,5 +32,10 @@ Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos
 <div align="right">
  
   ![](https://komarev.com/ghpvc/?username=heliocarlitos&color=grey&style=for-the-badge&label=VISUALIZAÇÕES&abbreviated=true)
+
   
 </div>
+
+> Obrigado por visitar meu perfil
+
+![](https://hit.yhype.me/github/profile?account_id=112761333)
