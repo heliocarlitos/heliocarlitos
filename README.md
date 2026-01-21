@@ -7,8 +7,8 @@ Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="15"> STATUS DO GITHUB
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=heliocarlitos&theme=dark&hide_border=false&locale=pt_BR&card_width=466&card_height=194" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=heliocarlitos&theme=default&hide_border=false&locale=pt_BR&card_width=466&card_height=194" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-streak-stats-ruby.vercel.app/?user=heliocarlitos&theme=dark&hide_border=false&locale=pt_BR&card_width=466&card_height=194" />
+    <img src="https://github-streak-stats-ruby.vercel.app/?user=heliocarlitos&theme=default&hide_border=false&locale=pt_BR&card_width=466&card_height=194" />
 </picture>
 
 [![Hélio Carlitos GitHub stats-Dark](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
