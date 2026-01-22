@@ -1,6 +1,6 @@
 ### Olá! Eu sou Hélio
 Sou Desenvolvedor _Web_ de Moçambique, cidade de Mocuba, gosto de criar coisas para a _internet_, procurando soluções para resolver problemas reais.<br/><br/>
-Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos/issues).
+Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos/issues/new).
 
 ### STATUS DO GITHUB
 
