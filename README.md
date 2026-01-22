@@ -2,6 +2,10 @@
 Sou Desenvolvedor _Web_ de Moçambique, cidade de Mocuba, gosto de criar coisas para a _internet_, procurando soluções para resolver problemas reais.<br/><br/>
 Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos/issues/new).
 
+### LINGUAGENS
+
+[![Top Langs](https://helio-github-stats.vercel.app/api/top-langs?username=heliocarlitos&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4&card_width=466&locale=pt-pt&hide_title=true&langs_count=20)](https://github.com/heliocarlitos)
+
 ### STATUS DO GITHUB
 
 <picture>
@@ -12,9 +16,12 @@ Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos
 [![Hélio Carlitos GitHub stats-Dark](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Hélio Carlitos GitHub stats-Light](https://helio-github-stats.vercel.app/api?username=heliocarlitos&locale=pt-pt&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-### LINGUAGENS
+### TOP REPOSITÓRIOS
 
-[![Top Langs](https://helio-github-stats.vercel.app/api/top-langs?username=heliocarlitos&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4&card_width=466&locale=pt-pt&hide_title=true&langs_count=20)](https://github.com/heliocarlitos)
+[![nice-readme](https://helio-github-stats.vercel.app/api/pin?username=heliocarlitos&repo=nice-readme&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/heliocarlitos/nice-readme)
+[![icon-hutadev](https://helio-github-stats.vercel.app/api/pin?username=hutadev&repo=icon-hutadev&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/hutadev/icon-hutadev)
+[![formatacao-e-sintaxe-basica-do-github](https://helio-github-stats.vercel.app/api/pin?username=heliocarlitos&repo=formatacao-e-sintaxe-basica-do-github&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github)
+[![projecto-huta](https://helio-github-stats.vercel.app/api/pin?username=heliocarlitos&repo=projecto-huta&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/heliocarlitos/projecto-huta)
 
 ### CONTACTO
 
