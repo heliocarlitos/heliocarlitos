@@ -18,14 +18,10 @@ Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos
 
 ### TOP REPOSITÓRIOS
 
-<div align="center">
-
 [![nice-readme](https://helio-github-stats.vercel.app/api/pin?username=heliocarlitos&repo=nice-readme&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/heliocarlitos/nice-readme)
 [![icon-hutadev](https://helio-github-stats.vercel.app/api/pin?username=hutadev&repo=icon-hutadev&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/hutadev/icon-hutadev)
 [![formatacao-e-sintaxe-basica-do-github](https://helio-github-stats.vercel.app/api/pin?username=heliocarlitos&repo=formatacao-e-sintaxe-basica-do-github&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github)
 [![projecto-huta](https://helio-github-stats.vercel.app/api/pin?username=heliocarlitos&repo=projecto-huta&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/heliocarlitos/projecto-huta)
-
-</div>
 
 ### CONTACTO
 
