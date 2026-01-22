@@ -16,14 +16,6 @@ Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos
 
 ![Hélio Carlitos GitHub language](https://helio-github-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=466)
 
-
-<!--
----
-
-### WakaTime
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?heliocarlitos=ffflabs)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ### CONTACTO
 
   <a href="mailto:heliocarlitosantonio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
