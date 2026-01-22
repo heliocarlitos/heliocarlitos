@@ -14,7 +14,7 @@ Pergunte-me qualquer coisa [aqui](https://github.com/heliocarlitos/heliocarlitos
 
 ### LINGUAGENS
 
-![Hélio Carlitos GitHub language](https://helio-github-stats.vercel.app/api/top-langs/?username=heliocarlitos&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=466)
+[![Top Langs](https://helio-github-stats.vercel.app/api/top-langs?username=heliocarlitos&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4&card_width=466&locale=pt-pt&hide_title=true&langs_count=20)](https://github.com/heliocarlitos)
 
 ### CONTACTO
 
